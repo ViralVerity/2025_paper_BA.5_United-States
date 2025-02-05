@@ -4,10 +4,11 @@ Contains information for [this paper](https://www.biorxiv.org/content/10.1101/20
 
 Specifically:
 
-- XMLs for the two BEAST analyses (topology estimation and disrete trait analysis). Sequence data have been removed to comply with GISAID user agreements.
-- Output log files for these analyses
-- Input fixed tree file for the discrete trait analysis
-- Estimated introductions into the US including estimated origin location and time
+"first_beast_run" contains files related to tree parameter estimation using thorney beast (XML and log file from BEAST)
+"second_beast_run" contains files relating to the discrete trait analysis on global and within US level (XML, log file, input tree file, resulting introductions)
+
+NB sequences have been removed in compliance with GISAID user agreements
+
 
 
 
